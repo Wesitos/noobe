@@ -28,7 +28,8 @@
     "vendor": {
         "require": [
             "react",
-            "react-dom"
+            "react-dom",
+            "lodash",
         ],
 
       "build": {
